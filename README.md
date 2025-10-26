@@ -40,6 +40,7 @@ streamlit run app.py
 4. 選擇儲存庫和分支
 5. 設置主文件為 `app.py`
 6. 點擊 "Deploy" 開始部署
+7. [https://imageprocesshw2-gijsqspsfln5w228nyebzq.streamlit.app/](https://imageprocesshw2-gijsqspsfln5w228nyebzq.streamlit.app/)
 
 部署完成後，您將獲得一個公開的 URL 來訪問您的應用程式。
 
@@ -78,4 +79,5 @@ streamlit run app.py
 
 - 最大圖像尺寸：2048x2048 像素
 - 支援的文件格式：PNG (.png)、JPEG (.jpg, .jpeg)
+
 - 不同尺寸的圖像會自動調整至較小尺寸進行運算
